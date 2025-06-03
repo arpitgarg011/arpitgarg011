@@ -8,4 +8,5 @@
 - 💬 Ask me about: Agile, AI, API security, or databases
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/arpit-garg)
 
+![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitgarg011&show_icons=true&theme=tokyonight)
 
